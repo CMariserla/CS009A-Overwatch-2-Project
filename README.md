@@ -5,6 +5,8 @@ Collaborated with a classmate to do a hitrate analysis on an Overwatch 2 dataset
 
 Our Dataset concerns player data from Overwatch 2, Season 1.
 
+![image alt](https://github.com/CMariserla/CS009A-Overwatch-2-Project/blob/4cd17e4c3a0e38d7e6b337246e16de70fc45c7d4/Captzsdfure.PNG)
+
 ## Which heroes had the highest average pick rate across all ranks? 
 The top 3 heroes with the highest average pick rate are: Ana, Moira, Genji - in order from least to greatest. This indicates that out of 36 unique heroes in the data file, the 3 heroes most likely to be chosen for play are Ana, Moira, and Genji. The top two are in the support role in the game. This is not necessarily surprising since from experience support has been a more popular role to play ingame. What was surprising was that Genji, a damage hero, was in the top 3 of most popular characters.
 
